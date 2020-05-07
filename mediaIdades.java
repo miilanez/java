@@ -10,7 +10,7 @@ public class mediaIdades {
 		
 		Scanner theTeclado = new Scanner(System.in);
 
-		int idade = 0, soma =0, media = 0;
+		int idade = 0, soma = 0, media = 0;
 
 		for (int quantidade = 1; quantidade <= 20; quantidade++) {
 			System.out.println("Por favor, digite a idade da " + quantidade + "ª pessoa: ");
